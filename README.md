@@ -10,12 +10,8 @@ The details of this dataset is referred to "Zhihao Cai, Sinong Quan, Junpeng Wan
 
 If you feel this dataset is useful, please cite as the following format.
 
-@article{CAI2026500,
-
-title = {MaOutCNN: A physical mechanism coupled MambaOut-CNN detection network with maiden-released interference polarized ship detection dataset},
-
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-
+@article{CAI2026500,title = {MaOutCNN: A physical mechanism coupled MambaOut-CNN detection network with maiden-released interference polarized ship detection dataset},  
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},  
 volume = {236},
 
 pages = {500-527},
